@@ -1,4 +1,4 @@
-package com.bryant;
+package com.bryant.methods;
 
 public class JavaMethodExercisesOne {
     int numOne = 0;

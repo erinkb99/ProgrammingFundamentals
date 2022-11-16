@@ -1,4 +1,4 @@
-package com.bryant;
+package com.bryant.methods;
 
 public class math {
     public static void main(String[] args) {

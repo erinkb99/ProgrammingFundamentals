@@ -1,4 +1,4 @@
-package com.bryant;
+package com.bryant.methods;
 
 import java.util.ArrayList;
 import java.util.Scanner;

@@ -1,4 +1,4 @@
-package com.bryant;
+package com.bryant.methods;
 
 public class Address {
     private final String street;
