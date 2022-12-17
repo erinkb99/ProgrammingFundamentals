@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Classwork {
+    /*
     private List<Course> getAllCourses() {
         return new ArrayList<>();
     }
@@ -20,4 +21,6 @@ public class Classwork {
     }
 
     }
+}
+*/
 }
